@@ -28,6 +28,9 @@
             android:theme="@style/AppThemeHistory"
             />
 
+        <meta-data
+            android:name="io.fabric.ApiKey"
+            android:value="b46af22c978f39f5499c846dd410a6c1e9f2b0e7" />
     </application>
 
 </manifest>
